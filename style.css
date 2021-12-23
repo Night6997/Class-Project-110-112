@@ -1,0 +1,41 @@
+body
+{
+   color:black;
+  background: linear-gradient(crimson, rgb(87, 22, 148));
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#p1 ,#p3
+{
+  color: black;
+}
+.predictionPara
+{
+  font-size: 40px;
+}
+.predictedEmoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size:18px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+label
+{
+  font-size:14px;
+  color:azure;
+  padding:10px;
+  border-radius: 10px;
+  background-color: cadetblue;
+}
